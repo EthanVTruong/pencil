@@ -1,6 +1,6 @@
 {
     "name": "no2pencil",
-    "symbol": "$DREP",
+    "symbol": "$no2",
     "description": "number 2 pencil, 2 pencils",
     "image": "https://raw.githubusercontent.com/TheHealthCalendar/pencil/main/pencil.webp",
     "sellerFeeBasisPoints": 0,
